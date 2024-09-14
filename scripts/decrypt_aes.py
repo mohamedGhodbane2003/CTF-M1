@@ -39,4 +39,3 @@ message = aes_decrypt(enc_message, passphrase)
 
 print("Decrypted message:")
 print(message.decode("utf-8"))
-

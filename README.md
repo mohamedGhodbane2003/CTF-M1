@@ -89,3 +89,11 @@
      Enter the challenge to be signed: adman harts huzza rinse foray
      Signature: 8f284498fe55b1747969cf72e0333a5d035c4b46397840bf6272f10eada9ceaffa2f9dc645cca9cdb2b93cc8c92a01fb09f93094ade45b1775636c371341c753f091375120fd187ce0156aa65334142e83a283a956e4ef62a118f75c15494fb30f24156205c2226a3071a9ee4c6c0d32a0cab5d1988d7fc7c90366c295a50dfcef581c2b0868f4c1ff93c674fba62cd9eb105e0a2c2816e59706f67c105dd1fd019a32aed064cb8ed823e8663ad2b77f54d4596a4811f7c4bb733f3755226f4123404f085aaf8eb30cdaa5d64eac7b53e541e9b2802619f7272df2bddd2b78cca340c33b82b37091ada9887f695fbbed97698b9e91d220b1d71584e0378f90ed
      ```
+
+## 5. Dictionary Attack
+
+### Challenge Steps:
+
+1. **Find the Passphrase using Dictionary Attack:**
+   - Use the `dict_attack.py` script to perform a brute-force dictionary attack on the encrypted AES-128-CBC ciphertext.
+   - The script tries to decrypt the given ciphertext using a list of possible passphrases (from a dictionary file) and compares the decrypted output with the expected plaintext, go to the LPNHE RC-13 to get the challenge and the cipher text.
