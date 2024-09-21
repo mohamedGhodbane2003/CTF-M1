@@ -1,0 +1,10 @@
+I used the card with public key : "-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAra1cjkWB2GMTIG4QpgEG
+vAao7l2IkMP367HV52I2bYDTJXn4k6aSzIFqx3XyeSloZatoe0/CmRVT8NH3lEdQ
+EMMsMQx14a4Jx0p4rvETTM7XpzacwTznAxfk2e3z4Kz0llaEEH5knZMpKrf5ieu6
+rF7eaUmNoBb5LKxFTUr0x4ZOQZPd4x2qh0Xp3LR873aihw0mxeHepk54DdVKHKcn
+/t+Y47Pm+DwC66yTPhAWPRN3BRu81JfbcnT2dv3xckrRHx2VKbrv0+s04Xz/DW8p
+f2TcSlQ9v3od51u5bwK8XAy7TZS6VO7yAJe+PAIhW4rIQzn6xXZmmaReCiQ7uO4h
+qQIDAQAB
+-----END PUBLIC KEY-----
++++ATRIUM+++", then signed the challenge using pk.login.py
